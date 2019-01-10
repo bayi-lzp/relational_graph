@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "msg": "请求成功",
+  "data": [
+    {
+        "id": 123,
+        "name": "bayi"
+    },
+    {
+        "id": 22,
+        "name": "bayi1"
+    },
+    {
+        "id": 43,
+        "name": "bayi2"
+    },
+    {
+        "id": 5,
+        "name": "bayi3"
+    }
+  ]
+}

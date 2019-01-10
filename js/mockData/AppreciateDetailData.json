@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "msg": "请求成功",
+  "data": {
+    "userid": "1856293363663750138",
+    "coinCounts": 32,
+    "coinNumber": 26,
+    "leaderboards": 3,
+    "praiserNum": 3,
+    "presenterNum": 4
+  }
+}

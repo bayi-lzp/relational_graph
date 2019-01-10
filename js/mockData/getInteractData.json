@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "msg": "请求成功",
+  "data": [
+    {
+      "praiserId": "0643693467-1567519421",
+      "praiserName": "Milo Mo",
+      "presenterId": "083433453532001313",
+      "presenterName": "Susie Chen",
+      "praiserAvatar": "https://static.dingtalk.com/media/lADPBbCc1d8-kXPNAtjNAu4_750_728.jpg",
+      "presenterAvatar": "https://static.dingtalk.com/media/lADPACOG83dg6SvNAhbNAxo_794_534.jpg"
+    },
+    {
+      "praiserId": "1546114653-2075071073",
+      "praiserName": "Cass Li",
+      "presenterId": "0643693467-1567519421",
+      "presenterName": "Milo Mo",
+      "praiserAvatar": "https://static.dingtalk.com/media/lADPBbCc1TvO9TPNAivNAoM_643_555.jpg",
+      "presenterAvatar": "https://static.dingtalk.com/media/lADPBbCc1d8-kXPNAtjNAu4_750_728.jpg"
+    },
+    {
+      "praiserId": "1856293363663750138",
+      "praiserName": "Scarlett Wen",
+      "presenterId": "18392547561934016313",
+      "presenterName": "Len Chen",
+      "praiserAvatar": "https://static.dingtalk.com/media/lADPBbCc1iyvGEfNAjjNAYQ_388_568.jpg",
+      "presenterAvatar": "https://static.dingtalk.com/media/lADPBbCc1Z5y1EzNAYDNAYA_384_384.jpg"
+    }
+  ]
+}
